@@ -1,0 +1,17 @@
+name: sorry
+version: 0.1.0
+
+authors:
+  - sllt <hello@sllt.me>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+targets:
+  sorry:
+    main: src/sorry.cr
+
+crystal: 0.24.2
+
+license: MIT
